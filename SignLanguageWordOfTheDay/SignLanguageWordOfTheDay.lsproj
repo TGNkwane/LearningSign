@@ -3,7 +3,7 @@
     "document_id": "F7Xm5zW4Zes6JcUincWe",
     "original_document_id": "F7Xm5zW4Zes6JcUincWe",
     "version": "26",
-    "lastChanged": "1607185420175",
+    "lastChanged": "1607244121661",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -42,6 +42,9 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Filter_text-removebg-preview"
                     ],
                     [
                         "Flower"
@@ -91,11 +94,11 @@
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -169,6 +172,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1607241597901884:167120",
+                    "name": "Files\/File17.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -204,7 +215,7 @@
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -261,6 +272,14 @@
                 {
                     "k": "14",
                     "v": "Files\/File14.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
                 }
             ]
         },
@@ -288,6 +307,10 @@
                     {
                         "k": "971",
                         "v": "Flower.png"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Filter_text-removebg-preview.png"
                     }
                 ],
                 "hashes": [
@@ -318,14 +341,90 @@
                     {
                         "k": "971",
                         "v": "4a5152a2623bcd116a4e8100d1970f6f"
+                    },
+                    {
+                        "k": "972",
+                        "v": "f86f77736466897d769276fb6ebc9000"
+                    },
+                    {
+                        "k": "973",
+                        "v": "b5b90fa94f75c6ad09321c80d10ae928"
+                    },
+                    {
+                        "k": "975",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "977",
+                        "v": "8bf0bd9ac22b88367eeffb4c8379aa63"
+                    },
+                    {
+                        "k": "978",
+                        "v": "e47dc7df413a7882965b13c64e8e2305"
+                    },
+                    {
+                        "k": "981",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "982",
+                        "v": "ab2643b55fe14d19d10b8b7008e69d2d"
+                    },
+                    {
+                        "k": "983",
+                        "v": "c21a94efbc1490ad9c24fbd7a19582e4"
+                    },
+                    {
+                        "k": "985",
+                        "v": "293dd847263b992bd8c3db6df23ed47f"
+                    },
+                    {
+                        "k": "986",
+                        "v": "89c36f43c41a7a483edf1c542afc642f"
+                    },
+                    {
+                        "k": "987",
+                        "v": "99d0ca3e78fe988596048c74b3214923"
+                    },
+                    {
+                        "k": "988",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "989",
+                        "v": "652d069524e3e081774ab247a27236be"
+                    },
+                    {
+                        "k": "990",
+                        "v": "2b02d39d06be40b5e1988af378b0e640"
+                    },
+                    {
+                        "k": "992",
+                        "v": "f7347124fcd0947b4e4629b774a9406a"
+                    },
+                    {
+                        "k": "993",
+                        "v": "82fe9bce9c355e656b1528521ad50cef"
+                    },
+                    {
+                        "k": "994",
+                        "v": "ce3ba4095002976eb5a675409884a295"
+                    },
+                    {
+                        "k": "997",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "998",
+                        "v": "59361291686fd7cebf3981836238abbb"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-12-05T18:17:32",
+                        "lastModified": "2020-12-06T10:31:57",
                         "name": "Public",
-                        "hash": "62a0b9a2bc97708abcb8b9da6063a095",
+                        "hash": "6de8c7f58aae066e2a6cae080c4d9959",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -339,6 +438,13 @@
                                 "lastModified": "2020-10-11T22:58:54",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-06T09:59:01",
+                                "name": "Filter_text-removebg-preview.png",
+                                "hash": "b5b90fa94f75c6ad09321c80d10ae928",
                                 "children": ""
                             },
                             {
@@ -485,16 +591,25 @@
                         "publicId": "971",
                         "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Flower.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "Filter_text-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1607241597901884:167120",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "973",
+                        "source": "C:\/Users\/Tebogo\/Downloads\/Filter_text-removebg-preview.png",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1607185051036969:93351"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
